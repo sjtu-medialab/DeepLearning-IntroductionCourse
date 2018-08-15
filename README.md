@@ -51,5 +51,7 @@ Lesson14 – Super Resolution; Segmentation with Unets
 这一课时详细介绍并实现了图像超分辨率的模型，并将其思想应用于风格迁移，从而优化了上一节课使用的方法，最后通过详细分析并实现Unet模型解决了Carvana这个图像分割任务。
 
 资料包含了所有14个课时的课件和实现代码（代码均取自fastai课程）以及原版视频课程网站:
+
 1-7课：http://course.fast.ai/lessons/lessons.html
+
 8-14课：http://course.fast.ai/lessons/lessons2.html
